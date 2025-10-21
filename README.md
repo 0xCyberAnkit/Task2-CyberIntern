@@ -1,36 +1,48 @@
 # Task2-CyberIntern
+
 ---
+
 From: HR - Emma Roberts <emma.roberts@gmail.com>
 To: Peter Smith <peter.smith@tryhackme.com>
 Subject: Please review the attached payroll correction
 Hi Peter, this is Emma from HR. I'm following up about a payroll correction that requires your bank details. Please open the file attached and send your updated bank account number and sort code so I can process this change.
 This is phishing
+
 ---
+
 From: IT Notices <notices@tryhackme.com>
 To: Peter Smith <peter.smith@tryhackme.com>
 Subject: Planned maintenance this weekend
 Hi Peter, a reminder that we will have planned infrastructure maintenance on Saturday between 01:00 and 04:00 UTC. Services may be intermittently unavailable. Please save your work and report any unexpected behaviour after the window.
 This is not phishing
+
 ---
+
 From: Project Updates <updates@tryhackme.com>
 To: Peter Smith <peter.smith@tryhackme.com>
 Subject: Weekly team update — sprint progress
 Hello Peter, here is the weekly project update. The development team completed the authentication module and began testing the reporting dashboard. No action is needed on your part; this is for your information only. Let me know if you'd like a deeper status on any task.
 This is not phishing
+
 ---
+
 From: IT Helpdesk <it-support@service-update.com>
 To: Peter Smith <peter.smith@tryhackme.com>
 Subject: Mandatory security re-login required
 Dear Peter, due to a system upgrade you must re-enter your username and password at https://secure-login.example.com within 48 hours to retain access.
 This is Phishing 
+
 ---
+
 From: Billing <billing@trustedvendor.co>
 To: Peter Smith <peter.smith@tryhackme.com>
 Subject: Overdue Invoice — Pay Immediately
 Hello, your account shows an overdue invoice. Click https://paypel.trustedvendor-example.com/pay/12345 to make a payment.
 This is Phishing 
 Payment link points to a suspicious domain
+
 ---
+
 From: Carlos Mendes <carlos.mendes@partner.example.com>
 To: Peter Smith <peter.smith@tryhackme.com>
 Subject: Quick favor — can you buy gift cards?
