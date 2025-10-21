@@ -9,6 +9,7 @@ This repository contains my submission for Task 2 of the Cyber Security Internsh
 | File | Description |
 |------|-------------|
 | `phishing_samples.md` | Annotated email samples with phishing classification and reasoning |
+| `phishing_analysis.md` | Phishing analysis Report with Classification and Reasoning |
 | `README.md` | Overview of the task, tools used, and submission details |
 | `screenshots/` *(optional)* | Header analysis or suspicious link scans (if applicable) |
 
@@ -43,7 +44,8 @@ To identify phishing traits in suspicious emails and build awareness of email-ba
 
 1. Open `phishing_samples.md` to view the annotated email samples.
 2. Review the classification and reasoning for each email.
-3. Optional: Add screenshots or header analysis results to the `screenshots/` folder.
+3. Open `phishing_analysis.md` to view the phishing analysis report.
+4. Optional: Add screenshots or header analysis results to the `screenshots/` folder.
 
 ---
 
@@ -57,12 +59,12 @@ To identify phishing traits in suspicious emails and build awareness of email-ba
 
 ## 🔗 Submission Link
 
-Paste your GitHub repository link in the internship portal as instructed.
+https://github.com/0xCyberAnkit/Task2-CyberIntern/tree/main
 
 ---
 
 ## 🙌 Author
 
 **Ankit Chandok**  
-Cybersecurity enthusiast | Red Team learner | Hackathon strategist  
+Cybersecurity enthusiast | Red Team learner | Block Chain and Quantum Researcher  
 Focused on building a modular Red Team portfolio through hands-on labs and public documentation.
